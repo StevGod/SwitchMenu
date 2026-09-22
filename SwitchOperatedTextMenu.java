@@ -1,5 +1,4 @@
-i
-mport java.util.Scanner; public class SwitchOperatedTextMenu {
+import java.util.Scanner; public class SwitchOperatedTextMenu {
 public static void main(String[] args) {
 Scanner in = new Scanner(System.in);
 // print menu
